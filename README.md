@@ -1,12 +1,15 @@
-## html5rocks.com is an open source project!
+# Archive of html5rocks.com.
 
-**Interested in contributing? Help us:**
+This is an archive copy of html5rocks.com website before the introduction of the redirects that made it officially retired.
 
-- [Localize content](https://github.com/html5rocks/www.html5rocks.com/blob/master/LOCALIZATION.md)
-- [File or fix bugs](https://github.com/html5rocks/www.html5rocks.com/issues)
-- [Author an article, tutorial, or case study](https://github.com/html5rocks/www.html5rocks.com/wiki/Contributors-Guide)
+I encourage you 100% to use the new documentations on [developer.chrome.com](https://developer.chrome.com) and [web.dev](https://web.dev). 
 
-[![HTML5Rocks Screenshot](https://github.com/html5rocks/www.html5rocks.com/raw/master/static/images/screenshots/landing_page.png)](http://www.html5rocks.com)
+## Reference links
+
+- [Farewell to HTML5 Rocks by Paul Kinlan, on web.dev blog](https://web.dev/farewell-html5rocks/)
+- [Goodbye HTML5 Rocks by Paul Kinlan, on Kinlan's blog](https://paul.kinlan.me/goodbye-html5rocks/)
+
+## Attribution
 
 *HTML5Rocks is by [Google](https://github.com/google)*
 
